@@ -1,5 +1,5 @@
 #### Ecom backend
-This simple e-ecommerce backend allows you to manage the employee, customer, login, product and purchase info.  
+This simple ecommerce backend allows you to manage the employee, customer, login, product and purchase info.  
 Technologies used:
 1. Java
 2. Swing
